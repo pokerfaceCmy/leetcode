@@ -5,7 +5,4 @@
 
 
 #### 目录：
-[001._two_sum.md](https://github.com/pokerfaceCmy/leetcode/blob/master/answer/001._two_sum.md)<br>
-[278._first_bad_version.md](https://github.com/pokerfaceCmy/leetcode/blob/master/answer/278._first_bad_version.md)<br>
-[303._range_sum_query.md](https://github.com/pokerfaceCmy/leetcode/blob/master/answer/303._range_sum_query.md)<br>
-[728._self_dividing_numbers.md](https://github.com/pokerfaceCmy/leetcode/blob/master/answer/728._self_dividing_numbers.md)<br>
+[点击查看答案目录](https://github.com/pokerfaceCmy/leetcode/tree/master/answer)<br>
